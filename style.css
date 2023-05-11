@@ -1,0 +1,83 @@
+@charset "UTF-8";
+
+body{
+    background-image: linear-gradient(to right,#2B88D9,#177FBF,#348ABF);
+    height: 100%;
+    padding-bottom: 100px;
+}
+
+.bordah1{
+    background-color: rgb(50, 91, 167);
+    height: 110px;
+    width: 50%;
+    position: relative;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.733);
+}
+
+h1{
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 8px 8px 1px rgb(0, 0, 0);
+    width: 900px;
+    height: 1500px;
+    padding: 20px;
+    margin: auto;
+    border: 1px solid black;
+    }
+
+h2{
+    color: rgb(0, 0, 0);
+    box-shadow: 5px 5px 1px black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    border: 1px solid black;
+}
+
+.proximapagina{
+
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    box-shadow: 5px 5px 1px rgba(0, 0, 0, 0.733);
+    margin-left: auto;
+    
+}
+
+.numero{
+
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    box-shadow: 5px 5px 1px rgba(0, 0, 0, 0.733);
+    margin-top: auto;
+
+}
+
+.voltarpagina{
+
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 50px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    box-shadow: 5px 5px 1px rgba(0, 0, 0, 0.733);
+    margin-right: auto;
+
+}
